@@ -1,0 +1,5 @@
+printu "Vanakkam da Sibi!"
+ifu 10 > 5:
+    printu "Number is big!"
+elseu:
+    printu "Number is small!"
